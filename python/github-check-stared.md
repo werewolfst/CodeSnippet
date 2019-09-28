@@ -34,7 +34,7 @@ def check_stared(username, direct_repo):
     
 if __name__ == "__main__":
     username = "werewolfst"
-    direct_repo = "NuoHui/fe-note"
+    direct_repo = "blinker-iot/blinker-library"
     result = check_stared(username, direct_repo)
 
     print("*******************")
